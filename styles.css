@@ -31,7 +31,6 @@ nav > ul > li > a {
 /* 600px en adelante */
 @media (min-width: 600px) {
   body {
-    color: blue;
     background-color: red;
   }
 
